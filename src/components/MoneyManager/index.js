@@ -110,7 +110,7 @@ class MoneyManager extends Component {
     })
 
     balanceAmount = incomeAmount - expensesAmount
-    
+
     return balanceAmount
   }
 
